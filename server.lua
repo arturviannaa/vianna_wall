@@ -189,4 +189,4 @@ function vianna.reportunwallLog(toggle)
 end
 
 
-print("^2 WALL INICIADO COM SUCESSO")
+print("^2 [WALL] Sistema autenticado com sucesso, desenvolvido por vianna")
